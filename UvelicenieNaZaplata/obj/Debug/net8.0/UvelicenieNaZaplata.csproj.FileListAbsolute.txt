@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\Siana\Zadacha1\UvelicenieNaZaplata\bin\Debug\net8.0\UvelicenieNaZaplata.exe
+C:\Users\lenovo\Desktop\Siana\Zadacha1\UvelicenieNaZaplata\bin\Debug\net8.0\UvelicenieNaZaplata.deps.json
+C:\Users\lenovo\Desktop\Siana\Zadacha1\UvelicenieNaZaplata\bin\Debug\net8.0\UvelicenieNaZaplata.runtimeconfig.json
+C:\Users\lenovo\Desktop\Siana\Zadacha1\UvelicenieNaZaplata\bin\Debug\net8.0\UvelicenieNaZaplata.dll
+C:\Users\lenovo\Desktop\Siana\Zadacha1\UvelicenieNaZaplata\bin\Debug\net8.0\UvelicenieNaZaplata.pdb
+C:\Users\lenovo\Desktop\Siana\Zadacha1\UvelicenieNaZaplata\obj\Debug\net8.0\UvelicenieNaZaplata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Siana\Zadacha1\UvelicenieNaZaplata\obj\Debug\net8.0\UvelicenieNaZaplata.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Siana\Zadacha1\UvelicenieNaZaplata\obj\Debug\net8.0\UvelicenieNaZaplata.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Siana\Zadacha1\UvelicenieNaZaplata\obj\Debug\net8.0\UvelicenieNaZaplata.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Siana\Zadacha1\UvelicenieNaZaplata\obj\Debug\net8.0\UvelicenieNaZaplata.dll
+C:\Users\lenovo\Desktop\Siana\Zadacha1\UvelicenieNaZaplata\obj\Debug\net8.0\refint\UvelicenieNaZaplata.dll
+C:\Users\lenovo\Desktop\Siana\Zadacha1\UvelicenieNaZaplata\obj\Debug\net8.0\UvelicenieNaZaplata.pdb
+C:\Users\lenovo\Desktop\Siana\Zadacha1\UvelicenieNaZaplata\obj\Debug\net8.0\UvelicenieNaZaplata.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Siana\Zadacha1\UvelicenieNaZaplata\obj\Debug\net8.0\ref\UvelicenieNaZaplata.dll

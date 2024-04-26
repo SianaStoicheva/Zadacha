@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\Desktop\\Siana\\Zadacha1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7682C60-3EA6-4CBC-B72A-10F846A4F73D}|UvelicenieNaZaplata\\UvelicenieNaZaplata.csproj|c:\\users\\lenovo\\desktop\\siana\\zadacha1\\uvelicenienazaplata\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7682C60-3EA6-4CBC-B72A-10F846A4F73D}|UvelicenieNaZaplata\\UvelicenieNaZaplata.csproj|solutionrelative:uvelicenienazaplata\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7682C60-3EA6-4CBC-B72A-10F846A4F73D}|UvelicenieNaZaplata\\UvelicenieNaZaplata.csproj|c:\\users\\lenovo\\desktop\\siana\\zadacha1\\uvelicenienazaplata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7682C60-3EA6-4CBC-B72A-10F846A4F73D}|UvelicenieNaZaplata\\UvelicenieNaZaplata.csproj|solutionrelative:uvelicenienazaplata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\Zadacha1\\UvelicenieNaZaplata\\Person.cs",
+              "RelativeDocumentMoniker": "UvelicenieNaZaplata\\Person.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\Zadacha1\\UvelicenieNaZaplata\\Person.cs",
+              "RelativeToolTip": "UvelicenieNaZaplata\\Person.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAcwEsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:55:52.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\Zadacha1\\UvelicenieNaZaplata\\Program.cs",
+              "RelativeDocumentMoniker": "UvelicenieNaZaplata\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\Zadacha1\\UvelicenieNaZaplata\\Program.cs",
+              "RelativeToolTip": "UvelicenieNaZaplata\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:53:26.46Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
